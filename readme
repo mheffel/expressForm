@@ -1,0 +1,1 @@
+This is an example using node.js and Express Framework to do a simple form post.  After sumbitting the form, the two values firstName and lastName are printed to the console by node.js.
